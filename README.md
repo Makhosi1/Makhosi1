@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nomakhosi
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on new projects 
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web Dev via Niyo Bootcamps
 - 📫 How to reach me via email nomakhosimabusa@yahoo.co.uk
 
 <!---
